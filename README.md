@@ -15,7 +15,7 @@ data/
 
 # Usage:
 
-'''bash
+```bash
 git clone https://github.com/LainIwakura-wq/Web-Scraper.git
 cd Web-Scraper
 python crawler.py
